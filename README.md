@@ -58,7 +58,9 @@ Chuang Zhu
 If you have any questions, please contact us directly.
 
 ## Additional Info 
-Some parts of our code are borrowed from the [offical Co-teaching implementation](https://github.com/bhanML/Co-teaching)
+
+Some parts of our code are borrowed from the [offical Co-teaching implementation](https://github.com/bhanML/Co-teaching).
+
 We are continuing to add the using instructions of our code.
 
 ## Acknowledgements
